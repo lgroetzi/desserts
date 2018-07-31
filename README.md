@@ -6,7 +6,7 @@
          |  .--. .--.   .--.   .--.  |  /
          | (    )    ) (    ) (    ) | /
          |  '--' '--'   '--'   '--'  |/
-         '---------------------------' Art by [jgs](https://www.chris.com/ascii/joan/www.geocities.com/SoHo/7373/please.html)
+         '---------------------------' 
 
 # NYC Dessert Database
 
@@ -28,4 +28,5 @@
 ## Contributions
 * This is a collaborative list. Please open pull requests if you have any suggestions. #LiveLaughDiabetes
 
+Art by [jgs](https://www.chris.com/ascii/joan/www.geocities.com/SoHo/7373/please.html)
 
