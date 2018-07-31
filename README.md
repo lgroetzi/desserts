@@ -6,7 +6,7 @@
          |  .--. .--.   .--.   .--.  |  /
          | (    )    ) (    ) (    ) | /
          |  '--' '--'   '--'   '--'  |/
-         '---------------------------' 
+         '---------------------------' Art by [jgs](https://www.chris.com/ascii/joan/www.geocities.com/SoHo/7373/please.html)
 
 # NYC Dessert Database
 
