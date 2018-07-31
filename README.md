@@ -10,8 +10,6 @@
 
 # NYC Dessert Database
 
-## By Neighborhood
-
 ### West Village
 * [Cake Pops @ Molly's Cupcakes](https://www.yelp.com/biz/mollys-cupcakes-new-york)
 * [Banana Pudding @ Magnolia Bakery](https://www.yelp.com/biz/magnolia-bakery-west-village-new-york)
@@ -26,7 +24,8 @@
 ### Not Worth The Wait
 * [Cookie Dough @ Dō](https://www.yelp.com/biz/d%C5%8D-cookie-dough-confections-new-york-2?osq=do)
 * Any cereal milk ice cream place...
-### Contributions
+
+## Contributions
 * This is a collaborative list. Please open pull requests if you have any suggestions. #LiveLaughDiabetes
 
 
